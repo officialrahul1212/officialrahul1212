@@ -13,3 +13,35 @@ Hi, I'm Rahul Chougule, a 2nd-year MCA student at VPIMS&R Sangli, affiliated wit
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=officialrahul1212&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+# 👋 About Me
+
+Hi, I'm Rahul Chougule, a 2nd-year MCA student.
+
+🌱 Learning new technologies  
+🚀 Working on projects  
+💡 Interested in full-stack development  
+
+---
+
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-red)](your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](your-link)
+[![Email](https://img.shields.io/badge/Email-orange)](your-email)
+
+---
+
+## 💻 Tech Stack
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Java](https://img.shields.io/badge/Java-red)
+![Python](https://img.shields.io/badge/Python-blue)
+![C](https://img.shields.io/badge/C-blue)
+![C++](https://img.shields.io/badge/C++-blue)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME)
