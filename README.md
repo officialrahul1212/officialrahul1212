@@ -77,11 +77,11 @@ Hi, I'm Rahul Chougule, a Data Analyst with hands-on experience in SQL, Python, 
 ## 📊 GitHub Stats
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=officialrahul1212&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulchougule023&show_icons=true&theme=radical" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialrahul1212&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchougule023&layout=compact&theme=radical" />
 </p>
 
 ---
